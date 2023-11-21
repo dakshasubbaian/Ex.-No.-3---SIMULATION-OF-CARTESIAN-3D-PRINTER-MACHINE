@@ -48,13 +48,21 @@
 ###   3.	Move the z-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the z-axis assembly.
 
 ## OUTPUT
-![image](https://github.com/dakshasubbaian/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/112880924/e772e60e-20ff-4d29-9122-4c2355b4f518)
+![image](https://github.com/dakshasubbaian/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/112880924/ed3f2706-cd28-4871-8196-2eeb2708142f)
+![image](https://github.com/dakshasubbaian/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/112880924/99c5ba06-62f9-49cb-9b0d-53d941d08b46)
+![image](https://github.com/dakshasubbaian/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/112880924/1e88971c-3817-4482-8a58-fd67b14299c8)
+![image](https://github.com/dakshasubbaian/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/112880924/fac72ffe-628d-4af2-9a0a-e3be54c3999e)
+![image](https://github.com/dakshasubbaian/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/112880924/26e8ddc5-3611-4964-ac70-a7faeeecf338)
+
+
+
+
 
 
 ## Output:
 
-### Name: 
-### Register Number:
+### Name: Daksha Subbaian
+### Register Number:23003584
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
